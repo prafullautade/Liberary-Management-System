@@ -27,3 +27,9 @@ A Library Management System developed using `Tkinter` for GUI in Python. This sy
 - **Tkinter**: Python's standard GUI library for creating the user interface.
 
 
+## Future Enhancements
+-Integrate a Database to store books and students' records persistently.
+-Add more detailed error handling and validations.
+-Implement a Search functionality to search books by title or author.
+-Improve the GUI to be more visually appealing and responsive.
+
